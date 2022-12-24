@@ -1,2 +1,1 @@
-# AwesomeProject
 # TestProject
